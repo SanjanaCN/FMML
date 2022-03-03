@@ -39,3 +39,7 @@ Lab3: Gradient Descent
 
 Lab4: Support Vector Machines
 
+Module 5:
+
+Lab1: Non linear SVM
+
