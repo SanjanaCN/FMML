@@ -43,3 +43,5 @@ Module 5:
 
 Lab1: Non linear SVM
 
+Lab2: Introduction to decision trees
+
