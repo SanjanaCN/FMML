@@ -45,3 +45,5 @@ Lab1: Non linear SVM
 
 Lab2: Introduction to decision trees
 
+Lab3: Decision trees- Information metrics, Gini Imputity
+
