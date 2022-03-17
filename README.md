@@ -51,3 +51,6 @@ Lab3: Decision trees- Information metrics, Gini Imputity
 
 Lab4: Ensemble methods, Random forests
 
+Module 6:
+
+Lab1: Regression
