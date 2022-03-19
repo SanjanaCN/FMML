@@ -54,3 +54,13 @@ Lab4: Ensemble methods, Random forests
 Module 6:
 
 Lab1: Regression
+
+Projects:
+ 
+1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
+
+2. Appreciating, Interpreting and Visualizing Data
+
+3. Perceptron and Gradient Descent
+
+4. 
