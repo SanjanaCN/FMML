@@ -63,4 +63,4 @@ Projects:
 
 3. Perceptron and Gradient Descent
 
-4. 
+4. counting-fingers-classical
