@@ -64,3 +64,5 @@ Projects:
 3. Perceptron and Gradient Descent
 
 4. counting-fingers-classical
+
+5. byte panache project
