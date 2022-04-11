@@ -53,7 +53,9 @@ Lab4: Ensemble methods, Random forests
 
 Module 6:
 
-Lab1: Regression
+Lab1: Regression1
+
+Lab2: Regression2, loss functions
 
 Projects:
  
