@@ -57,6 +57,8 @@ Lab1: Regression1
 
 Lab2: Regression2, loss functions
 
+Lab3: Regularization, SVM Regression and Logistic Regression
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
