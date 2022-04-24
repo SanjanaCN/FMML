@@ -59,6 +59,10 @@ Lab2: Regression2, loss functions
 
 Lab3: Regularization, SVM Regression and Logistic Regression
 
+Module 7:
+
+Lab1: K-means clustering
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
