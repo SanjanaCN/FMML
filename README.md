@@ -63,6 +63,8 @@ Module 7:
 
 Lab1: K-means clustering
 
+Lab2: Hierarchical clustering
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
