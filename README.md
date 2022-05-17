@@ -65,7 +65,7 @@ Lab1: K-means clustering
 
 Lab2: Hierarchical clustering
 
-Lab3: Matrix_Factorization and SVD
+Lab3: Matrix Factorization and SVD
 
 Projects:
  
