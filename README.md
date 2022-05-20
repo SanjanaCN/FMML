@@ -67,6 +67,8 @@ Lab2: Hierarchical clustering
 
 Lab3: Matrix Factorization and SVD
 
+Lab4: Anomaly Detection and KMeans Application
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
