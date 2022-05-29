@@ -69,6 +69,10 @@ Lab3: Matrix Factorization and SVD
 
 Lab4: Anomaly Detection and KMeans Application
 
+Module 8:
+
+Lab1: Introduction to Probability Theory
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
