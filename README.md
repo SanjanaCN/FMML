@@ -73,6 +73,8 @@ Module 8:
 
 Lab1: Introduction to Probability Theory
 
+Lab2: Naive Bayes Classifier
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
