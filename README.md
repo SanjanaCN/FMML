@@ -77,6 +77,8 @@ Lab2: Naive Bayes Classifier
 
 Lab 3: Applying Bayes Classifiers
 
+Lab 4: Probabilisitic Mixture Models
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
