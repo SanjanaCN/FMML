@@ -92,3 +92,5 @@ Projects:
 5. Byte Panache Project
 
 6. Unsupervised Project
+
+7. Project 8
