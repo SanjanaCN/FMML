@@ -94,3 +94,5 @@ Projects:
 6. Unsupervised Project
 
 7. Project 8
+
+8. Project 9- Breast cancer prediction with an MLP Classifier
