@@ -79,6 +79,12 @@ Lab 3: Applying Bayes Classifiers
 
 Lab 4: Probabilisitic Mixture Models
 
+Module 9:
+
+Lab 1: Single Layer Perceptron, MLP implementation in PyTorch
+
+Lab 2: Using MLP for multiclass classification
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
