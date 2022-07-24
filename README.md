@@ -85,6 +85,8 @@ Lab 1: Single Layer Perceptron, MLP implementation in PyTorch
 
 Lab 2: Using MLP for multiclass classification
 
+Lab 3: Neural Networks: Convolutional Neural Networks
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
