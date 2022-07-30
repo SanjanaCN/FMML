@@ -105,7 +105,5 @@ Projects:
 
 7. Project 8
 
-8. Project 9- a) Breast cancer prediction with an MLP Classifier
-
-              b) CNN project
+8. Project 9- a) Breast cancer prediction with an MLP Classifier       b) CNN project
 
