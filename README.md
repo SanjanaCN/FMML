@@ -87,6 +87,8 @@ Lab 2: Using MLP for multiclass classification
 
 Lab 3: Neural Networks: Convolutional Neural Networks
 
+Lab 4: Neural Networks: Convolutional Neural Networks 2
+
 Projects:
  
 1. Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
@@ -104,5 +106,6 @@ Projects:
 7. Project 8
 
 8. Project 9- a) Breast cancer prediction with an MLP Classifier
+
               b) CNN project
 
